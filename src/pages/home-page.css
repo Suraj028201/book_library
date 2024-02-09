@@ -1,0 +1,17 @@
+.home-page {
+    /* background-color: lightcyan; */
+}
+
+.welcome-msg {
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #9D9D9D;
+}
+
+.msg {
+    font-weight: 500;
+    font-size: 1.8rem;
+    line-height: 2.25rem;
+    color: #19191B;
+}
